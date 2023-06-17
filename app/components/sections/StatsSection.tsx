@@ -5,7 +5,7 @@ const openSans = Open_Sans({ subsets: ["latin"] });
 
 const StatsSection = () => {
   return (
-    <section className="flex flex-col md:flex-row items-center gap-28 justify-between md:px-52 px-8">
+    <section className="flex flex-col md:flex-row items-center gap-28 justify-between md:px-44 md:pt-16 pt-10 px-8">
       <div className={`flex flex-col gap-4 ${openSans.className}`}>
         <Image
           src={"/images/icon-communities.svg"}

@@ -8,9 +8,9 @@ const openSans = Open_Sans({
 
 const HeroSections = () => {
   return (
-    <section className="px-8 md:px-24 md:py-10 mt-20">
-      <div className="flex flex-col md:px-12 gap-10 text-center items-center">
-        <h1 className="md:text-4xl text-2xl text-[#00252E]">
+    <section className="px-8 md:px-16 md:py-10 md:mt-28 mt-20">
+      <div className="flex flex-col md:px-12 gap-12 text-center items-center">
+        <h1 className="md:text-5xl text-2xl text-[#00252E]">
           Build The Community Your Fans Will Love
         </h1>
         <p
@@ -25,7 +25,7 @@ const HeroSections = () => {
         >
           Get Started For Free
         </button>
-        <div className="relative w-full md:h-[570px] h-[300px] mt-6 md:mt-12">
+        <div className="relative w-full md:h-[720px] h-[300px] mt-6 md:mt-12">
           <Image
             src={"/images/screen-mockups.svg"}
             alt="bg desktop img"
