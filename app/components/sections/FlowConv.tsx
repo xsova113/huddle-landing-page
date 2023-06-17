@@ -15,7 +15,7 @@ const FlowConv = () => {
           <p
             className={`${openSans.className} font-medium max-md:text-sm text-[#00252E]/70`}
           >
-            You wouldn't paginate a conversation in real life, so why do it
+            You wouldn&apos;t paginate a conversation in real life, so why do it
             online? Our threads have just-in-time loading for a more natural
             flow.
           </p>
