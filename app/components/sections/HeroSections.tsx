@@ -14,7 +14,7 @@ const HeroSections = () => {
           Build The Community Your Fans Will Love
         </h1>
         <p
-          className={`${openSans.className} font-[600] md:w-1/2 text-[#00252E]/80`}
+          className={`${openSans.className} font-[600] md:w-[65%] text-[#00252E]/80`}
         >
           Huddle re-imagines the way we build communities. You have a voice, but
           so does your audience. Create connections with your users as you
